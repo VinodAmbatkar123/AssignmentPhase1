@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping >
+    <class name="com.model.Product">
+        <id name="pid">
+            <generator class="indentity"></generator>
+        </id>
+        <property name="pname" type="java.lang.string" ></property>
+          <property name="pdescription" type="java.lang.string" ></property>
+          <property name="pprice" type="java.lang.Double" ></property>
+
+    </class>
+</hibernate-mapping>

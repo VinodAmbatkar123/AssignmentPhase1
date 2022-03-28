@@ -1,0 +1,8 @@
+127.0.0.1 - - [08/Mar/2022:16:50:33 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/Mar/2022:17:39:02 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/Mar/2022:17:40:02 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:17:40:06 +0530] "GET /ServletAndJSP/servletfilter.html HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:17:44:44 +0530] "GET /ServletAndJSP/dashboard?userid=johndoe HTTP/1.1" 200 101
+127.0.0.1 - - [08/Mar/2022:21:23:12 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:21:23:58 +0530] "GET /ServletAndJSP/servletcontext.html HTTP/1.1" 200 328
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:21:24:03 +0530] "POST /ServletAndJSP/onContext HTTP/1.1" 200 31
